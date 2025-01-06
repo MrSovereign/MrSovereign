@@ -4,7 +4,5 @@
 <p aligin="center">
    <img src="https://adriansblinkiecollection.neocities.org/t10.gif"> <img src="https://adriansblinkiecollection.neocities.org/u3.gif"> <img src="https://adriansblinkiecollection.neocities.org/n13.gif"> 
 <img src="https://adriansblinkiecollection.neocities.org/g55.gif"> <img src="https://adriansblinkiecollection.neocities.org/g37.gif"> <img src="https://adriansblinkiecollection.neocities.org/v14.gif">
-
-<p aligin="center">
   <img src="https://adriansblinkiecollection.neocities.org/m8.gif"> 
 <img src="https://adriansblinkiecollection.neocities.org/q1.gif">
