@@ -9,8 +9,7 @@
 <img src="https://adriansblinkiecollection.neocities.org/d43.gif"> <img src="https://adriansblinkiecollection.neocities.org/d59.gif"> 
 
 ---------------------------------------------------------------------
-hit list!!!!!!!!! :3
+<b> hit list!!!!!!!!! :3 </b>
 
-
-[<img width="200" height="200" src="https://cdn.discordapp.com/attachments/991950922265673768/1326498062641795082/Untitled146_20250108182923.png?ex=677fa517&is=677e5397&hm=c34c264e6710839a0a57d3314f7fb142e7e77c270727c81f84b3ed9fc622216c&">](https://github.com/Yoo-Joonghyuk)
-Victim 1
+Victim 1.
+[<img width="200" height="200" src="https://cdn.discordapp.com/attachments/991950922265673768/1326498062641795082/Untitled146_20250108182923.png?ex=677fa517&is=677e5397&hm=c34c264e6710839a0a57d3314f7fb142e7e77c270727c81f84b3ed9fc622216c&">](https://github.com/Yoo-Joonghyuk) Victim 2. [<img width="200" height="200" src="https://cdn.discordapp.com/attachments/991950922265673768/1326498063942160425/Untitled146_20250108182913.png?ex=677fa517&is=677e5397&hm=3ae6a667f2ba800d79c84b215f2c91ceb13398f1b3633909cca24191047803bd&">](https://github.com/nexoriliath)
