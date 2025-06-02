@@ -1,3 +1,3 @@
 
-![](https://komarev.com/ghpvc/?username=Felinoology&color=E7DDFF&label=birds-eaten)
+![](https://komarev.com/ghpvc/?username=Felinoology&color=E7DDFF&label=sweethearts^_^)
 
