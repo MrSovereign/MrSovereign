@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?username=D4RKH3ART&label=victims)
+![](https://komarev.com/ghpvc/?username=D4RKH3ART&label=victims&color=E2EAF4)
