@@ -10,7 +10,17 @@
 </p>
 
 <p align="center">
+  <b>He/him</b> preferred + any is okay!
+</p>
+
+<p align="center">
   <img src="https://file.garden/aFQP9esOHyVvl9zD/argaliakun.png" width="300"/>
+</p>
+
+<p align="center">
+<img src="https://file.garden/aFQP9esOHyVvl9zD/genderfluid.jpg" width="20"/> 
+<img src="https://file.garden/aFQP9esOHyVvl9zD/aro.jpg" width="20"/> 
+<img src="https://file.garden/aFQP9esOHyVvl9zD/ace.jpg" width="20"/>
 </p>
 
 <p align="center">
