@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://file.garden/aFQP9esOHyVvl9zD/panny.png" width="50"/>
+  <img src="https://file.garden/aFQP9esOHyVvl9zD/panny.png" width="70"/>
   <img src="https://file.garden/aFQP9esOHyVvl9zD/edgy.png" />
   <img src="https://file.garden/aFQP9esOHyVvl9zD/gender.png" />
 </p>
