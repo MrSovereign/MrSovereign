@@ -29,4 +29,9 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://vampirictheatrics.atabook.org/">
+    <span style="font-size: 20px;">send me a threat!</span>
+  </a>
+</p>
 <br><br><br>
