@@ -1,6 +1,6 @@
 <br><br><br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=p4rtypoison&label=monsters&color=550001&base=1241" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=p4rtypoison&label=killjoys&color=550001&base=1241" alt="Profile Views"/>
 </p>
 
 <p align="center">
