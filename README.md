@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://file.garden/aFQP9esOHyVvl9zD/argaliakun.png" width="300"/>
+  <img src="https://file.garden/aFQP9esOHyVvl9zD/haa.jpg" width="300"/>
 </p>
 
 <p align="center">
