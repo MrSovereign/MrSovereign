@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://file.garden/aFQP9esOHyVvl9zD/okaay.gif" width="20" style="vertical-align:middle;"/>
-  &nbsp;Girlfriends girlfriends never could be mine.&nbsp;
+  &nbsp;Face it kid, you're never gonna make it.&nbsp;
   <img src="https://file.garden/aFQP9esOHyVvl9zD/okay22.gif" width="20" style="vertical-align:middle;"/>
 </p>
 
