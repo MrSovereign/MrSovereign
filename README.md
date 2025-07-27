@@ -18,6 +18,12 @@
 </p>
 
 <p align="center">
+  <a href="https://vampirictheatrics.atabook.org/">
+    <span style="font-size: 20px;">send me a threat!</span>
+  </a>
+</p>
+
+<p align="center">
 <img src="https://file.garden/aFQP9esOHyVvl9zD/genderfluid.jpg" width="20"/> 
 <img src="https://file.garden/aFQP9esOHyVvl9zD/aro.jpg" width="20"/> 
 <img src="https://file.garden/aFQP9esOHyVvl9zD/ace.jpg" width="20"/>
@@ -29,9 +35,5 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://vampirictheatrics.atabook.org/">
-    <span style="font-size: 20px;">send me a threat!</span>
-  </a>
-</p>
+
 <br><br><br>
