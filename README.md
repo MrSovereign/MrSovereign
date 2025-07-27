@@ -30,6 +30,11 @@
 </p>
 
 <p align="center">
+<img src="https://file.garden/aFQP9esOHyVvl9zD/friday.gif" width="150"/> 
+<img src="https://file.garden/aFQP9esOHyVvl9zD/0233-mbav3cheersforevil.gif" width="150"/> 
+<img src="https://file.garden/aFQP9esOHyVvl9zD/mcr.gif" width="150"/> 
+  
+<p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=4p8jl8l0nv5mdylednuv4rbpo&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=A20102&bar_color_cover=false" />
   </a>
