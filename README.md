@@ -18,8 +18,12 @@
 </p>
 
 <p align="center">
+  w2i me ok? ok? ok? :)
+</p>
+
+<p align="center">
   <a href="https://vampirictheatrics.atabook.org/">
-    <span style="font-size: 20px;">send me a threat!</span>
+    <span style="font-size: 20px;">ATA (send me a threat!)</span>
   </a>
 </p>
 
